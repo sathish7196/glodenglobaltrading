@@ -1,0 +1,23 @@
+
+/* Home Page */
+.productList{
+    width: 250px;
+    height: 250px;
+}
+
+
+
+/* About Page */
+.banner-custom{
+    min-height: 100px !important;
+    height: 220px !important;
+}
+
+
+/* Contact page */
+
+.contact-director-img{
+    border-radius: 50%;
+    float: left;
+    padding: 10px;
+}
